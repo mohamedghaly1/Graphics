@@ -1,3 +1,9 @@
+Blitz Adventure Odyssey is an immersive gaming experience spanning two levels. In the first level, players aim to collect a minimum of 50 tickets from arcade and video games while navigating through obstacles that deduct tickets upon collision. 
+Upon reaching the ticket threshold and within the time limit, players progress to level 2. Here, the focus shifts to physical games, challenging players to gather 10 or more coins before the timer expires. 
+A conclusive game status is displayed at the conclusion of the time limit or when players achieve the coin target, marking progression to the second level objective.
+
+
+
 ========================================================================
     CONSOLE APPLICATION : OpenGL3DTemplate Project Overview
 ========================================================================
